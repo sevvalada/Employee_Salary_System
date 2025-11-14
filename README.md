@@ -31,4 +31,4 @@ Bu proje, **Java ile yazılmış bir çalışan maaş hesaplama sistemi**dir.
 1. Employee nesnesi oluşturulur:
 
 ```java
-Employee emp1 = new Employee("Ahmet", 2000, 45, 2015);
+Employee emp1 = new Employee("Şevval", 200000, 1, 2024);
